@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MyGameApp.MainPage">
+
+    <StackLayout BackgroundColor="AliceBlue">
+
+        
+        <Label Text="Guess which Room the person is hiding..! You have 3 Tries."
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center"
+               LineBreakMode="WordWrap"
+               WidthRequest="270"/>
+
+
+        <Button Text="Room # 1" Clicked="Button_Click"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"/>
+
+        <Button Text="Room # 2" Clicked="Button_Click"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"/>
+
+        <Button Text="Room # 3" Clicked="Button_Click"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Center"/>
+
+        <Label x:Name="lblTries"
+                Text=""
+               HorizontalOptions="Center" 
+               FontAttributes="Italic"
+               FontSize="Body" TextColor="Blue"
+               VerticalOptions="CenterAndExpand" />
+
+        <Label Text="My Mobile Test App" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        
+    </StackLayout>
+
+</ContentPage>

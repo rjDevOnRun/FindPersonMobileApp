@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FindPerson</id>
+    <version>1.0.0</version>
+    <authors>Roby John</authors>
+    <owners>Roby John</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>Iconsmind-Outline-Thumbs-UpSmiley.ico</icon>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Xamarin.Essentials" version="1.3.1" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.5.0.495" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\bin\Debug\netstandard2.0\FindPerson.dll" target="lib\netstandard2.0\FindPerson.dll" />
+    <file src="D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp.Android\Assets\Iconsmind-Outline-Thumbs-UpSmiley.ico" target="Iconsmind-Outline-Thumbs-UpSmiley.ico" />
+  </files>
+</package>

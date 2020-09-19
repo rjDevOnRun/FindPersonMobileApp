@@ -1,0 +1,13 @@
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\bin\Debug\netstandard2.0\FindPerson.deps.json
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\bin\Debug\netstandard2.0\FindPerson.dll
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\bin\Debug\netstandard2.0\ref\FindPerson.dll
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\bin\Debug\netstandard2.0\FindPerson.pdb
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\FindPersonApp.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\FindPersonApp.AssemblyInfo.cs
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\FindPersonApp.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\FindPerson.dll
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\ref\FindPerson.dll
+D:\DEVELOPMENT\MOBILE\MyGameApp\MyGameApp\MyGameApp\obj\Debug\netstandard2.0\FindPerson.pdb
